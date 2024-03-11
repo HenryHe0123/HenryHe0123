@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Yanheng He, an undergraduate student at Shanghai Jiao Tong University, ACM Honors Class 2022. 
+
+I have a broad interest in computer science and mathematics.
+
+Good to see you at my Github page!
+
 <!--
 **HenryHe0123/HenryHe0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
